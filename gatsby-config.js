@@ -1,7 +1,7 @@
 module.exports = {
   siteMetadata: {
     // Site URL for when it goes live
-    siteUrl: `syednazirul.tech`,
+    siteUrl: `http://syednazirul.tech`,
     // Your Name
     name: 'Syed Nazirul',
     // Main Site Title
@@ -30,6 +30,7 @@ module.exports = {
       {
         name: 'Object Expression',
         description: 'System Engineer, October 2020 - Present',
+	link: '',
       },
     ],
     // Optional: List your skills, they must have `name` and `description`.
